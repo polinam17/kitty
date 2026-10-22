@@ -1,0 +1,4 @@
+exclude = ["migrations", "frontend", "venv", "env"]
+
+[lint]
+select = ["E", "F"]
